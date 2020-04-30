@@ -1,0 +1,12 @@
+# start
+8 line1
+a line1a
+8 line2
+8 line3
+	# mid way
+7 line4
+7 line5
+6 line6
+5 line7
+5 line8
+5 line9
